@@ -1,0 +1,7 @@
+{
+  "name": "ac-ir-remote",
+  "author": "Chris Borrill",
+  "license": "LGPL",
+  "version": "0.0.10",
+  "description": "Library for Daikin IR Remote based on https://www.hackster.io/yleguesse/spark-core-smart-air-conditioner"
+}
